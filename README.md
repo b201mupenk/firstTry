@@ -1,4 +1,4 @@
 firstTry
 ========
 
-nothing, just i first time using GitHUB Repository :)
+nothing, just my first time using GitHUB Repository :)
